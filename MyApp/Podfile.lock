@@ -1,0 +1,37 @@
+PODS:
+  - EasySocialButton (1.0.2)
+  - GMStepper (2.2)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+  - VerticalSlider (2.0.0)
+
+DEPENDENCIES:
+  - EasySocialButton
+  - GMStepper
+  - NVActivityIndicatorView
+  - SwiftMessages
+  - VerticalSlider
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - EasySocialButton
+    - NVActivityIndicatorView
+  trunk:
+    - GMStepper
+    - SwiftMessages
+    - VerticalSlider
+
+SPEC CHECKSUMS:
+  EasySocialButton: 8f2464e11dd5b52d612964243cc899d8fae0f1eb
+  GMStepper: 89fb106944dfcc3aa3add7164e3ebd463ea2104b
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+  VerticalSlider: 655f2bc3ed062bac13e21c174f5ff93b8308571d
+
+PODFILE CHECKSUM: ddb1f1c98abbf6cd398178c1a892b8e12296af11
+
+COCOAPODS: 1.11.3

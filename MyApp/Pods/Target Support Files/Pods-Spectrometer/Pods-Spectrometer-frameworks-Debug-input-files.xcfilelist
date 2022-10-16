@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Spectrometer/Pods-Spectrometer-frameworks.sh
+${BUILT_PRODUCTS_DIR}/EasySocialButton/EasySocialButton.framework
+${BUILT_PRODUCTS_DIR}/GMStepper/GMStepper.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/SwiftMessages/SwiftMessages.framework
+${BUILT_PRODUCTS_DIR}/VerticalSlider/VerticalSlider.framework

@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+EasySocialButton in Pods, no dependencies
+GMStepper in Pods, no dependencies
+VerticalSlider in Pods, no dependencies
+Pods-Spectrometer in Pods, depends on:
+EasySocialButton in Pods (explicit)
+GMStepper in Pods (explicit)
+VerticalSlider in Pods (explicit)

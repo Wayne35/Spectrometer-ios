@@ -1,0 +1,55 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9810f78b5a29da74795113d655b61bd97e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e988dcf207fd8f73aff7acd3a55678efc22"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989aa6f08891394c2187107d94005372a8"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98cd9be4ecc2bcfcc4f5d804223ea35c47"
+    }
+  ],
+  "containerPath" : "/Users/huahua/Desktop/code/MyApp/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/huahua/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/huahua/Library/Developer/Xcode/DerivedData/Pods-cfsncwlgtkanikcjapzvjgfusruy/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/huahua/Library/Developer/Xcode/DerivedData/Pods-cfsncwlgtkanikcjapzvjgfusruy/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

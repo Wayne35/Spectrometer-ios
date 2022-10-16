@@ -1,0 +1,6 @@
+framework module Pods_Spectrometer {
+  umbrella header "Pods-Spectrometer-umbrella.h"
+
+  export *
+  module * { export * }
+}
